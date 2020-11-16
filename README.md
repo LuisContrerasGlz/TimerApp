@@ -37,3 +37,8 @@
   2. Upon page load, the minutes of work and minutes of rest input fields should be initialized to their previously stored values.
 
   Thanks
+
+  Link to GitHub Pages: https://luiscontrerasglz.github.io/TimerApp/
+
+  ![Screenshot Index](./Captura1.png)
+  ![Screenshot Index](./Captura2.png)
